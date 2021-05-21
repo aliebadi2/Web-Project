@@ -1,0 +1,39 @@
+
+body {
+  background-color: #efefef;
+  font-family: arial;
+}
+h1 {
+  font-size: 24px;
+  background-color: lightblue;
+}
+p {
+  color: #000000;
+  
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+.profile{
+	width: 165px;
+	height: 220px;
+	margin: auto 10px
+	
+}
+.image1{
+	width: 80px;
+	height: 80px;
+	margin: auto 10px
+	text-decoration: none;
+}
+h2{
+	font-size: 18px
+}
+h3{
+	background-color: darkgrey;
+	font-size: 18px
+}
+.p2{
+	background-color: darkgrey;
+}
